@@ -97,7 +97,7 @@ The project is organised into folders to keep the application code, pages, reusa
 - **vite.config.js:** Contains Vite configuration.
 - **README.md:** Provides information and instructions about the project.
 
-*Note: This is the documented project structure based on our development work. Check the VS Code Explorer before submitting to make sure every individual filename matches your current project.*
+
 
 ## How the Application Works
 
