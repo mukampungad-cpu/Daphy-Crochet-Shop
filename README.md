@@ -9,7 +9,8 @@ Daphy Crochet Shop is a handmade crochet business website built to showcase croc
 **Visit the website:** https://vercel.com/new/mukampunga-daphrose/success?auto-redirect=true&developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=daphy-crochet-shop-j66om41s0-mukampunga-daphrose.vercel.app&projectName=daphy-crochet-shop&s=https%3A%2F%2Fgithub.com%2Fmukampungad-cpu%2FDaphy-Crochet-Shop&gitOrgLimit=&hasTrialAvailable=&totalProjects=&flow-id=ll_EBBh6H-lpOBQAgkja-&teamSlug=mukampunga-daphrose
 
 **GitHub Repository:** https://github.com/mukampungad-cpu/Daphy-Crochet-Shop
-
+screen choot
+![alt text](<Screenshot 2026-11-19 141105.png>)
 ## About the Project
 
 Daphy Crochet Shop was created to give a handmade crochet business a professional online presence.
